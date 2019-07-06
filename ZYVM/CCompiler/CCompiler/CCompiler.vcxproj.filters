@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CCompiler">
+      <UniqueIdentifier>{28d66fc1-7f75-42c9-83ef-4834a77a16a3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CCompiler\CCAnalyzer.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompiler\CCCodeGenerator.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompiler\CCompiler.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompiler\CCParser.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompiler\CCScanner.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompiler\CCSymbolTable.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompiler\CCSyntaxTree.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompiler\Common.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+    <ClCompile Include="CCompiler\Utility.cpp">
+      <Filter>CCompiler</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CCompiler\CCAnalyzer.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+    <ClInclude Include="CCompiler\CCCodeGenerator.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+    <ClInclude Include="CCompiler\CCompiler.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+    <ClInclude Include="CCompiler\CCParser.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+    <ClInclude Include="CCompiler\CCScanner.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+    <ClInclude Include="CCompiler\CCSymbolTable.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+    <ClInclude Include="CCompiler\CCSyntaxTree.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+    <ClInclude Include="CCompiler\Common.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+    <ClInclude Include="CCompiler\Utility.hpp">
+      <Filter>CCompiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

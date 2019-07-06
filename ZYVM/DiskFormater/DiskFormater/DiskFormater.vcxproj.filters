@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="DiskFormater">
+      <UniqueIdentifier>{5e2b27e9-d825-49b8-babb-e6642cbb0a32}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DiskFormater\ZYDiskFormater.cpp">
+      <Filter>DiskFormater</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

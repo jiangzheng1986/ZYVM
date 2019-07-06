@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Preprocessor">
+      <UniqueIdentifier>{11108dea-581e-4de9-8108-1a018d355694}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Preprocessor\Preprocessor.cpp">
+      <Filter>Preprocessor</Filter>
+    </ClCompile>
+    <ClCompile Include="Preprocessor\Scanner.cpp">
+      <Filter>Preprocessor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Preprocessor\Preprocessor.h">
+      <Filter>Preprocessor</Filter>
+    </ClInclude>
+    <ClInclude Include="Preprocessor\Scanner.h">
+      <Filter>Preprocessor</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

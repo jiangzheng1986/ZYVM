@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Assembler">
+      <UniqueIdentifier>{e1eb1ad7-89cc-4e83-9bcd-9a423f85972b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Assembler\AsmCompiler.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\CAsmCodeGenerator.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\CAsmInstrTable.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\CAsmParser.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\CAsmScanner.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\CAsmSymbolFileGenerator.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\CAsmSymbolTable.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\CAsmSyntaxTree.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\Common.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+    <ClCompile Include="Assembler\Utility.cpp">
+      <Filter>Assembler</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Assembler\AsmCompiler.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\CAsmCodeGenerator.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\CAsmInstrTable.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\CAsmParser.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\CAsmScanner.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\CAsmSymbolFileGenerator.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\CAsmSymbolTable.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\CAsmSyntaxTree.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\Common.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+    <ClInclude Include="Assembler\Utility.hpp">
+      <Filter>Assembler</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
